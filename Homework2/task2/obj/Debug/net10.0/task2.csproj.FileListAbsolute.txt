@@ -1,0 +1,14 @@
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.AssemblyInfoInputs.cache
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.AssemblyInfo.cs
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.csproj.CoreCompileInputs.cache
+/Users/art/Desktop/CSharpProject/Homework2/task2/bin/Debug/net10.0/task2
+/Users/art/Desktop/CSharpProject/Homework2/task2/bin/Debug/net10.0/task2.deps.json
+/Users/art/Desktop/CSharpProject/Homework2/task2/bin/Debug/net10.0/task2.runtimeconfig.json
+/Users/art/Desktop/CSharpProject/Homework2/task2/bin/Debug/net10.0/task2.dll
+/Users/art/Desktop/CSharpProject/Homework2/task2/bin/Debug/net10.0/task2.pdb
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.dll
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/refint/task2.dll
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.pdb
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/task2.genruntimeconfig.cache
+/Users/art/Desktop/CSharpProject/Homework2/task2/obj/Debug/net10.0/ref/task2.dll
