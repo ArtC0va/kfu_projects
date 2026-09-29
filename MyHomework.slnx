@@ -1,4 +1,11 @@
 <Solution>
-  <Project Path="task1/task1.csproj" />
-  <Project Path="task2/task2.csproj" />
+  <Folder Name="/Homework1/">
+    <Project Path="Homework1/task1/task1.csproj" />
+    <Project Path="Homework1/task2/task2.csproj" />
+  </Folder>
+  <Folder Name="/Homework2/">
+    <Project Path="Homework2/task1/task1.csproj" />
+    <Project Path="Homework2/task2/task2.csproj" />
+    <Project Path="Homework2/task3/Task3.csproj" />
+  </Folder>
 </Solution>
