@@ -8,4 +8,9 @@
     <Project Path="Homework2/task2/task2.csproj" />
     <Project Path="Homework2/task3/Task3.csproj" />
   </Folder>
+  <Folder Name="/Homework3/">
+    <Project Path="Homework3/Methods/Methods.csproj" />
+    <Project Path="Homework3/task1/task1.csproj" />
+    <Project Path="Homework3/task2/task2.csproj" />
+  </Folder>
 </Solution>
