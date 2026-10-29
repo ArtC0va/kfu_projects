@@ -20,4 +20,8 @@
     <Project Path="Homework5/task1/task1.csproj" />
     <Project Path="Homework5/task2/task2.csproj" />
   </Folder>
+  <Folder Name="/Homework6/">
+    <Project Path="Homework6/task1/task1.csproj" />
+    <Project Path="Homework6/task2/task2.csproj" />
+  </Folder>
 </Solution>
