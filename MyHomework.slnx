@@ -24,4 +24,7 @@
     <Project Path="Homework6/task1/task1.csproj" />
     <Project Path="Homework6/task2/task2.csproj" />
   </Folder>
+  <Folder Name="/Homework7/">
+    <Project Path="Homework7/task1/task1.csproj" />
+  </Folder>
 </Solution>
